@@ -2,7 +2,6 @@
 title: Welcome to My Blog
 ---
 
-# Welcome to My Blog</h1>
 Sharing my journey in tech, security, and development.
 
 
